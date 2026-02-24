@@ -1,12 +1,12 @@
-# 🌍 3D Earthquake Aftershock Animation
+# 🌍 3D Earthquake Animation
 
-Generate animated 3D visualizations of earthquake aftershock sequences showing spatial distribution, depth, and magnitude evolution over time.
+Generate animated 3D visualizations of earthquake sequences showing spatial distribution, depth, and magnitude evolution over time.
 
 ![Example Animation](docs/example_preview.png)
 
 ## Features
 
-- **3D depth visualization** — see how aftershocks distribute beneath the surface
+- **3D depth visualization** — see how the mainshock & aftershocks distribute beneath the surface
 - **Cumulative animation** — events appear one by one in chronological order
 - **Configurable region** — define your own bounding box or let the tool auto-detect
 - **Flexible magnitude scaling** — auto-generate bins from your data or define custom size thresholds
